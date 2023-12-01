@@ -139,7 +139,7 @@ html {
   }
 
   tbody tr:nth-child(odd) {
-    background-color: #080808;
+    background-color: #25abba;
   }
   
   tbody tr:nth-child(even) {
