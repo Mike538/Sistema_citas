@@ -19,7 +19,7 @@ Sitio web desarrollado en HTML, CSS, JS, PHP, LARAVEL y ORACLE para agendar cita
   - Disfrutar
   
 ## ❌ Posibles errores ❌
-- Si tiene credenciales diferentes en su motor de base de datos, deberá configurar correctamente su DB
+- Si tiene credenciales diferentes en su motor de base de datos, deberá configurar correctamente su DB y crear tabla usuarios, posteriomente agregar los usuarios con su respectiva contaseña
 
 ## 👨‍💻 Tecnologías usadas 👨‍💻
 | MYSQL | PHP | Bootstrap |
